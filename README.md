@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning to build aesthetically pleasing websites
 - 💞️ I’m looking to collaborate on building responsive websites that stands out as a real time day-to-day problem solving tool
-- 📫 How to reach me ...
+- 📫 saileshkumar207@gmail.com
 
 <!---
 Sailesh207/Sailesh207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
